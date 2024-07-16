@@ -1,0 +1,9 @@
+# -e ../llm_assessor
+python-dotenv==1.0.0
+pip-tools==7.3.0
+pdfplumber==0.11.1
+langchain
+langchain_community
+pdf2image
+pandas
+ipykernel
