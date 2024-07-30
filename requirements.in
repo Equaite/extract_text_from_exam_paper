@@ -7,3 +7,5 @@ langchain_community
 pdf2image
 pandas
 ipykernel
+opencv-python
+anthropic
